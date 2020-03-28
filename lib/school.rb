@@ -20,5 +20,5 @@ end
 def sort
   sort ={}
   roster.each do |key,values|
-    sort||
+    sort[key] =
    
