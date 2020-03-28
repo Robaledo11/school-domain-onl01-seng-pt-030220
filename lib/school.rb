@@ -7,8 +7,8 @@ class School
   end
 
 def add_student(name,grade)
-  roster[grade] = 1+=0
-  roster[grade] = name 
+  roster[grade] = []
+  roster[grade << name 
 end
 end
    
