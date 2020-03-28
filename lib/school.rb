@@ -12,5 +12,6 @@ def add_student(name,grade)
 else
  roster[grade] =grade
 end
-end
+
+def roster=()
    
