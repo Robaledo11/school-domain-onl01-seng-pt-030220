@@ -7,8 +7,8 @@ class School
   end
 
 def add_student(name,grade)
-  roster[grade] = [] unless roster
-  roster[grade << name 
+  roster[grade] = [] unless roster[grade]
+  roster[grade] << name 
 end
 end
    
