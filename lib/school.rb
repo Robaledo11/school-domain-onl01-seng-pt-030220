@@ -14,5 +14,7 @@ else
 end
 
 def grade(num)
-  roster*
+  roster[num]
+end
+end
    
