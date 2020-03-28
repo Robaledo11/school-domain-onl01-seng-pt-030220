@@ -13,7 +13,7 @@ else
  roster[grade] =grade
 end
 
-def grade(num)
+def grade (num)
   roster[num]
 end
 end
