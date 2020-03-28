@@ -16,5 +16,6 @@ end
 def grade (num)
   roster [num]
 end
-end
+
+def sort
    
