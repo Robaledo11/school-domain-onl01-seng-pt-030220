@@ -10,5 +10,6 @@ def add_student(name,grade)
   roster[grade] = [] unless roster[grade]
   roster[grade] << name 
 end
+ roster[grade] = grade
 end
    
