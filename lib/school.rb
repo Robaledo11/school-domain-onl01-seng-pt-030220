@@ -9,7 +9,9 @@ end
      @roster
    end
    
-   def add_student(name,grade)
-     grade[roster]
+   def add_students (name,grade)
+     grade[roster] = {}
+     grade[rosrwe] = name 
+    end
    
    
