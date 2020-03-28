@@ -18,4 +18,6 @@ def grade (num)
 end
 
 def sort
+  sort ={}
+  
    
