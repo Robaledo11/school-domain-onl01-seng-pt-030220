@@ -22,6 +22,6 @@ def sort
   roster.each do |key,values|
     sort[key] =vaulues.sort 
   end
-  
-  
+  sort
+end
    
